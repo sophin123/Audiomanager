@@ -1,0 +1,2 @@
+rootProject.name='Audiomanager'
+include ':app'
